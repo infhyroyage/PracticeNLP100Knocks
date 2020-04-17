@@ -2,6 +2,12 @@
 Digraph.gv
 Digraph.gv.pdf
 stanford-corenlp-full-*
-Output/Chapter7
-Output/Chapter9
 Input/enwiki-20150112-400-r10-105752.txt.bz2
+Output/Chapter7
+Output/Chapter9/80.txt
+Output/Chapter9/81.txt
+Output/Chapter9/82.txt
+Output/Chapter9/83_f_c.txt
+Output/Chapter9/83_f_t.txt
+Output/Chapter9/83_f_tc.txt
+Output/Chapter9/84_f_tc.txt
