@@ -12,3 +12,5 @@ Output/Chapter9/83_f_t.txt
 Output/Chapter9/83_f_tc.txt
 Output/Chapter9/84_f_tc.txt
 Output/Chapter9/85_X_comp.pickle
+Output/Chapter10/90_word2vec.model.trainables.syn1neg.npy
+Output/Chapter10/90_word2vec.model.wv.vectors.npy
